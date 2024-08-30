@@ -14,7 +14,7 @@ In the Home-Assistant add-on store, a possibility to add a repository is provide
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/expaso/hassos-addons-edge
+https://github.com/expaso/hassos-addons-beta
 ```
 
 ## Add-ons provided by this repository
@@ -87,6 +87,6 @@ For a general repository issue or add-on ideas [open an issue here][issue]
 [pgadmin4-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [pgadmin4-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[gitlabci-shield]: https://gitlab.com/expaso/hassos-addons-edge/badges/master/pipeline.svg
-[license-shield]: https://img.shields.io/github/license/expaso/hassos-addons-edge.svg
+[gitlabci-shield]: https://gitlab.com/expaso/hassos-addons-beta/badges/master/pipeline.svg
+[license-shield]: https://img.shields.io/github/license/expaso/hassos-addons-beta.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
