@@ -1,3 +1,3 @@
 ## Changes
 
-* Optimized the CI/CD pipeline
+* Beta-Release publish of new CI/CD pipeline
