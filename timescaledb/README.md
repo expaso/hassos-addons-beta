@@ -200,7 +200,7 @@ If you are more interested in stable releases, use the stable repository:
 
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v4.1.0-RC1-blue.svg
-[release]: https://github.com/expaso/hassos-addon-timescaledb/tree/v4.1.0-RC1
+[release-shield]: https://img.shields.io/badge/version-v4.1.0-blue.svg
+[release]: https://github.com/expaso/hassos-addon-timescaledb/tree/v4.1.0
 [license-shield]: https://img.shields.io/github/license/expaso/hassos-addon-TimescaleDB.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
