@@ -86,7 +86,7 @@ If you are more interested in stable releases, use the stable repository:
 
 
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v3.1.0-blue.svg
-[release]: https://github.com/expaso/hassos-addon-pgadmin4/tree/v3.1.0
+[release-shield]: https://img.shields.io/badge/version-v3.2.0-RC1-blue.svg
+[release]: https://github.com/expaso/hassos-addon-pgadmin4/tree/v3.2.0-RC1
 [license-shield]: https://img.shields.io/github/license/expaso/hassos-addon-pgAdmin4.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
