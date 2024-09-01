@@ -1,3 +1,6 @@
 ## Changes
 
-* Beta-Release publish of new CI/CD pipeline
+* ⬆️ Upgraded PostgreSql to version 16.3
+* ⬆️ Upgraded TimescaleDb to version 2.16.1 - Fixes #46 
+* ⬆️ Upgraded base-images to 16.2.1
+
